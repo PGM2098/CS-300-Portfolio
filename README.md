@@ -1,1 +1,9 @@
-# CS-300-Portfolio
+Reflection
+
+The main problem I was solving in the projects for this course was learning how to implement and optimize different types of search and sorting algorithms. Each project built on the idea that the choice of data structure impacts the efficiency of the program. In my final project, I used a binary search tree to store course information, which allowed me to gain hands-on experience with structured data storage and ordered retrieval.
+
+My approach was to focus on understanding how each data structure functions internally and how that affects performance when inserting, searching, or sorting data. Data structures are important to understand because they directly determine how well a program can handle larger or more complex inputs. Working with arrays, hash tables, and binary search trees helped me see the trade-offs between fast lookups, ordered storage, and memory use.
+
+Although I didn’t run into any major roadblocks, there were moments where I had to carefully think through how the logic of one structure compared to another. That process helped me develop a new perspective on choosing the right tool for the job rather than defaulting to whatever structure is easiest to implement. By the end of the course, I noticed that my code was more readable and reusable. I became more intentional about writing functions in a way that someone else could maintain or adapt later, which is a valuable skill for real-world software design.
+
+Overall, these projects expanded my approach to designing programs by showing me how important it is to consider both efficiency and maintainability. I now feel more confident in evaluating which data structure best meets the requirements of a problem, and I have improved my ability to write programs that are not only functional but also clean, adaptable, and easier to work with over time.
